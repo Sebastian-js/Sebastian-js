@@ -1,18 +1,8 @@
 .top {
-    align-items: center;
-    display: flex;
-    flex-direction: row;
-    background-color: #F17045;
-    font-family: sans-serif;
+    color: red;
 }
 
 h1 {
     font-weight: bold;
     text-align: center;
-}
-
-.div2 {
-    height: device-height;
-    width: device-width;
-    
 }
